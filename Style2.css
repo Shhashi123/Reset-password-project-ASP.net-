@@ -1,0 +1,28 @@
+﻿body {
+    background-image: url('image/R.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+}
+.main {
+    margin:0px auto;
+    height:438px;
+    width:519px;
+    background-color:rgb(0, 204, 153);
+    font-family:sans-serif;
+    font-weight:bold;
+    font-size:16px;
+    text-align:center;
+    
+    outline:2px;
+}
+#TextBox1, #TextBox2 {
+    background:transparent;
+    border:none;
+    border-bottom:3px solid white;
+    width:30px;
+    color:#fff;
+    margin-bottom:15px;
+
+}
